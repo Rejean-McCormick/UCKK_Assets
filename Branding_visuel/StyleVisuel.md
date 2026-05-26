@@ -1,5 +1,7 @@
 # Définition stylistique pour IA
 
+brand color #1e6864
+
 ## Style visuel UCKK — Univers-Cité King Klown
 
 ### 1. Nom du style

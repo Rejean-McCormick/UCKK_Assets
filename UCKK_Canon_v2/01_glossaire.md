@@ -151,7 +151,7 @@ Un **Cartographe de systèmes** est une personne qui représente les acteurs, r�
 
 ### Architecte d’opportunités
 
-L’**Architecte d’opportunités** est le titre symbolique associé à la **Voie de l’Économie** et au Palier de **Magie opérable** dans ce domaine.
+L’**Architecte d’opportunités** est le titre symbolique associé à la **Voie de l’Économie** et au Niveau de **Magie opérable** dans ce domaine.
 
 Il comprend les ressources, les flux, les incitatifs, les plateformes, les mécanismes de capture et les conditions matérielles de l’action.
 
@@ -159,7 +159,7 @@ Il comprend les ressources, les flux, les incitatifs, les plateformes, les méca
 
 ### Gardien des systèmes vivants
 
-Le **Gardien des systèmes vivants** est le titre symbolique associé à la **Voie de l’Écologie** et au Palier de **Magie opérable** dans ce domaine.
+Le **Gardien des systèmes vivants** est le titre symbolique associé à la **Voie de l’Écologie** et au Niveau de **Magie opérable** dans ce domaine.
 
 Il comprend les systèmes vivants, les territoires, les ressources, les dépendances matérielles, les crises climatiques et les liens entre société et environnement.
 
@@ -167,7 +167,7 @@ Il comprend les systèmes vivants, les territoires, les ressources, les dépenda
 
 ### Architecte du sens
 
-L’**Architecte du sens** est le titre symbolique associé à la **Voie de la Linguistique et de l’architecture du sens** et au Palier de **Magie opérable** dans ce domaine.
+L’**Architecte du sens** est le titre symbolique associé à la **Voie de la Linguistique et de l’architecture du sens** et au Niveau de **Magie opérable** dans ce domaine.
 
 Il travaille sur les mots, concepts, traductions, catégories, récits, ontologies, graphes lexicaux et pouvoirs symboliques.
 
@@ -458,11 +458,11 @@ Le **feedback gouverné** est un retour d’expérience qui ouvre un nouveau cyc
 
 ---
 
-## 6. Paliers, voies et formation
+## 6. Niveaux, voies et formation
 
-### Échelle des Paliers UCKK
+### Échelle des Niveaux UCKK
 
-L’**Échelle des Paliers UCKK** est le système interne de progression de l’Univers-Cité King Klown.
+L’**Échelle des Niveaux UCKK** est le système interne de progression de l’Univers-Cité King Klown.
 
 Elle remplace les appellations universitaires classiques par une progression propre à la cité-école : **Aspirance → Initiation → Érudition → Sapience → Magie opérable → Archimagie → Grande Archimagie**.
 
@@ -476,17 +476,17 @@ Il étudie, explore, participe aux cours, ateliers, défis et assemblées, mais 
 
 ---
 
-### Palier
+### Niveau
 
-Un **Palier** est un niveau reconnu dans une voie UCKK.
+Un **Niveau** est un niveau reconnu dans une voie UCKK.
 
-Le Palier n’est pas un grade universitaire. Il indique une reconnaissance interne de compétence, de pratique, de recherche ou de contribution dans la cité-école.
+Le Niveau n’est pas un grade universitaire. Il indique une reconnaissance interne de compétence, de pratique, de recherche ou de contribution dans la cité-école.
 
 ---
 
-### Passage de palier
+### Passage de niveau
 
-Le **passage de palier** est le processus par lequel un Aspirant ou un membre UCKK soumet des preuves, travaux, pratiques ou contributions afin d’être reconnu à un niveau supérieur.
+Le **passage de niveau** est le processus par lequel un Aspirant ou un membre UCKK soumet des preuves, travaux, pratiques ou contributions afin d’être reconnu à un niveau supérieur.
 
 Il est évalué par des Examinateurs ou par un Collège des Examinateurs, selon l’importance du passage.
 
@@ -494,7 +494,7 @@ Il est évalué par des Examinateurs ou par un Collège des Examinateurs, selon 
 
 ### Parchemin UCKK
 
-Le **Parchemin UCKK** est le diplôme interne remis après la reconnaissance d’un Palier.
+Le **Parchemin UCKK** est le diplôme interne remis après la reconnaissance d’un Niveau.
 
 Il ne constitue pas un diplôme universitaire public, un grade universitaire ou un titre professionnel reconnu par l’État, sauf reconnaissance officielle future.
 
@@ -502,7 +502,7 @@ Il ne constitue pas un diplôme universitaire public, un grade universitaire ou 
 
 ### Initiation
 
-L’**Initiation** est le premier Palier reconnu.
+L’**Initiation** est le premier Niveau reconnu.
 
 Elle correspond à une compétence ponctuelle démontrée, à une compréhension de base ou à une première pratique vérifiable.
 
@@ -570,7 +570,7 @@ Parchemin associé : **Parchemin de Grande Archimagie**.
 
 Une **Voie** est un parcours structuré dans un domaine.
 
-Elle organise des cours, défis, ateliers, preuves, passages de palier et formes de reconnaissance interne.
+Elle organise des cours, défis, ateliers, preuves, passages de niveau et formes de reconnaissance interne.
 
 ---
 
@@ -592,7 +592,7 @@ Il inclut notamment : vision systémique du Grand Jeu, méthodes d’enquête, p
 
 La **Voie du Grand Jeu social** est la voie transversale qui forme les Joueurs à lire la société comme système de règles, récits, pouvoirs, institutions, flux, preuves et comportements.
 
-Elle peut mener, selon les preuves produites, aux Paliers d’Érudition, de Sapience, de Magie opérable, d’Archimagie ou de Grande Archimagie.
+Elle peut mener, selon les preuves produites, aux Niveaux d’Érudition, de Sapience, de Magie opérable, d’Archimagie ou de Grande Archimagie.
 
 ---
 
@@ -658,7 +658,7 @@ Cette voie étudie les langues comme infrastructures du monde social : mots, con
 
 Cet **atelier** étudie la scène, le récit, la satire, les médias sociaux, la diffusion, les défis publics et les limites éthiques de la performance.
 
-Il peut soutenir plusieurs voies sans constituer à lui seul un Palier complet, sauf s’il est intégré à un Dossier de passage reconnu.
+Il peut soutenir plusieurs voies sans constituer à lui seul un Niveau complet, sauf s’il est intégré à un Dossier de passage reconnu.
 
 ---
 
@@ -674,7 +674,7 @@ Elle doit être décrite comme une **cité-école expérimentale** ou une **inst
 
 ### Reconnaissance interne
 
-Les **Parchemins UCKK**, passages de palier et reconnaissances UCKK sont des structures internes de formation.
+Les **Parchemins UCKK**, passages de niveau et reconnaissances UCKK sont des structures internes de formation.
 
 Ils ne doivent pas être présentés comme équivalents à des diplômes publics accrédités, à des grades universitaires ou à des titres professionnels reconnus par l’État, sauf reconnaissance officielle future.
 
