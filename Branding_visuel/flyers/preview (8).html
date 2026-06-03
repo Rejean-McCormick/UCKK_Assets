@@ -1,0 +1,807 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>UCKK — Layout fixe Legal 8.5 × 14 — v6</title>
+
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700;800&display=swap");
+
+    @page {
+      size: 8.5in 14in;
+      margin: 0;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      width: 8.5in;
+      height: 14in;
+      background: #fff;
+      color: #000;
+      font-family: "EB Garamond", Baskerville, "Baskerville Old Face", Garamond, Georgia, serif;
+      font-kerning: normal;
+      font-variant-ligatures: common-ligatures;
+      text-rendering: geometricPrecision;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    body {
+      font-size: 9pt;
+      line-height: 1.14;
+    }
+
+    .sheet {
+      width: 8.5in;
+      height: 14in;
+      overflow: hidden;
+      display: grid;
+      grid-template-rows:
+        1.88in
+        .32in
+        5.35in
+        .33in
+        2.95in
+        2.73in
+        .44in;
+      background: #fff;
+    }
+
+    .top {
+      display: grid;
+      grid-template-columns: 1.40in 1fr 1.40in;
+      border-bottom: 1pt solid #000;
+    }
+
+    .brand {
+      border-right: 1pt solid #000;
+      padding: .105in;
+      display: grid;
+      grid-template-rows: .74in 1fr;
+      gap: .07in;
+    }
+
+    .brand-mark {
+      border: 1pt solid #000;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      text-transform: uppercase;
+      padding: .045in;
+    }
+
+    .brand-sigle {
+      font-size: 25pt;
+      line-height: .82;
+      font-weight: 700;
+      letter-spacing: .075em;
+    }
+
+    .brand-name {
+      margin-top: .055in;
+      font-size: 5.8pt;
+      line-height: 1.05;
+      font-weight: 700;
+      letter-spacing: .11em;
+    }
+
+    .brand-note {
+      border: 1pt solid #000;
+      padding: .065in .07in;
+      display: grid;
+      align-content: center;
+      text-align: center;
+      font-size: 6.7pt;
+      line-height: 1.15;
+      font-weight: 600;
+    }
+
+    .hero {
+      padding: .105in .20in .10in;
+      display: grid;
+      grid-template-rows: .16in .70in .22in 1fr;
+      gap: .045in;
+    }
+
+    .hero-kicker {
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 6.85pt;
+      line-height: 1;
+      font-weight: 700;
+      letter-spacing: .13em;
+      white-space: nowrap;
+    }
+
+    h1 {
+      margin: 0;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 29.4pt;
+      line-height: .78;
+      font-weight: 700;
+      letter-spacing: .035em;
+    }
+
+    .hero-slogan {
+      border-top: 1pt solid #000;
+      border-bottom: 1pt solid #000;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 6.85pt;
+      line-height: 1;
+      font-weight: 700;
+      letter-spacing: .052em;
+      white-space: nowrap;
+    }
+
+    .hero-definition {
+      border: 1pt solid #000;
+      padding: .075in .16in;
+      display: grid;
+      align-content: center;
+      text-align: center;
+      font-size: 7.75pt;
+      line-height: 1.16;
+      font-weight: 500;
+    }
+
+    .actions {
+      border-left: 1pt solid #000;
+      padding: .105in;
+      display: grid;
+      grid-template-rows: repeat(4, 1fr);
+      gap: .062in;
+    }
+
+    .action {
+      border: 1pt solid #000;
+      padding: .037in .045in;
+      display: grid;
+      grid-template-columns: .22in 1fr;
+      gap: .05in;
+      align-items: center;
+      text-transform: uppercase;
+      font-size: 6.75pt;
+      line-height: 1.02;
+      font-weight: 700;
+      letter-spacing: .036em;
+    }
+
+    .action-number {
+      border: 1pt solid #000;
+      width: .2in;
+      height: .2in;
+      display: grid;
+      place-items: center;
+      font-size: 6.3pt;
+      line-height: 1;
+      font-weight: 700;
+    }
+
+    .section-band {
+      border-top: 1pt solid #000;
+      border-bottom: 1pt solid #000;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 12.8pt;
+      line-height: 1;
+      font-weight: 700;
+      letter-spacing: .18em;
+    }
+
+    .ways {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border-bottom: 1pt solid #000;
+    }
+
+    .way {
+      min-height: 1.07in;
+      padding: .075in .105in .065in;
+      border-right: 1pt solid #000;
+      border-bottom: 1pt solid #000;
+      display: grid;
+      grid-template-columns: .32in 1fr;
+      column-gap: .075in;
+      align-items: start;
+    }
+
+    .way:nth-child(even) {
+      border-right: 0;
+    }
+
+    .way:nth-last-child(-n+2) {
+      border-bottom: 0;
+    }
+
+    .way-number {
+      width: .285in;
+      height: .285in;
+      border: 1pt solid #000;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      font-size: 8.8pt;
+      line-height: 1;
+      font-weight: 700;
+      margin-top: .002in;
+    }
+
+    .way-content {
+      min-height: .91in;
+      display: grid;
+      grid-template-rows: auto auto 1fr;
+      align-content: start;
+    }
+
+    .way-title {
+      text-transform: uppercase;
+      font-size: 7.75pt;
+      line-height: 1.02;
+      font-weight: 700;
+      letter-spacing: .008em;
+      padding-top: .004in;
+      margin-bottom: .055in;
+    }
+
+    .way-body {
+      margin: 0;
+      font-size: 7.05pt;
+      line-height: 1.12;
+      font-weight: 500;
+      max-width: 3.18in;
+    }
+
+    .way-keys {
+      align-self: end;
+      margin-top: .048in;
+      padding-top: .035in;
+      border-top: .65pt solid #000;
+      font-size: 5.9pt;
+      line-height: 1.08;
+      font-weight: 600;
+      letter-spacing: .005em;
+    }
+
+    .way-keys strong {
+      text-transform: uppercase;
+      font-size: 5.75pt;
+      letter-spacing: .04em;
+    }
+
+    .caption {
+      border-bottom: 1pt solid #000;
+      padding: .047in .52in;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      font-size: 7.65pt;
+      line-height: 1.12;
+      font-weight: 700;
+    }
+
+    .mid {
+      display: grid;
+      grid-template-columns: 2.82in 2.43in 3.25in;
+      border-bottom: 1pt solid #000;
+    }
+
+    .bottom {
+      display: grid;
+      grid-template-columns: 2.92in 2.73in 2.85in;
+      border-bottom: 1pt solid #000;
+    }
+
+    .panel {
+      border-right: 1pt solid #000;
+      padding: .108in .11in;
+      overflow: hidden;
+    }
+
+    .panel:last-child {
+      border-right: 0;
+    }
+
+    .panel-title {
+      margin: 0 0 .078in;
+      padding-bottom: .047in;
+      border-bottom: 1pt solid #000;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 8.15pt;
+      line-height: 1.05;
+      font-weight: 700;
+      letter-spacing: .068em;
+    }
+
+    .panel p {
+      margin: 0 0 .055in;
+      font-size: 7.35pt;
+      line-height: 1.14;
+      font-weight: 500;
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: .33in 1fr;
+      gap: .075in;
+    }
+
+    .square {
+      width: .275in;
+      height: .275in;
+      border: 1pt solid #000;
+      display: grid;
+      place-items: center;
+      font-size: 7pt;
+      line-height: 1;
+      font-weight: 700;
+    }
+
+    ul {
+      margin: .037in 0 0;
+      padding-left: .16in;
+    }
+
+    li {
+      margin: 0 0 .012in;
+      font-size: 6.68pt;
+      line-height: 1.08;
+      font-weight: 500;
+    }
+
+    .boxed {
+      margin-top: .075in;
+      padding: .058in;
+      border: 1pt solid #000;
+      font-size: 6.9pt;
+      line-height: 1.12;
+      font-weight: 600;
+    }
+
+    .levels {
+      display: grid;
+      gap: .036in;
+    }
+
+    .level {
+      display: grid;
+      grid-template-columns: .23in 1.03in 1fr;
+      gap: .045in;
+      align-items: center;
+      padding-bottom: .033in;
+      border-bottom: 1pt solid #000;
+      text-transform: uppercase;
+      font-size: 6.68pt;
+      line-height: 1.04;
+      font-weight: 700;
+    }
+
+    .badge {
+      width: .2in;
+      height: .2in;
+      border: 1pt solid #000;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      font-size: 6.5pt;
+      line-height: 1;
+      font-weight: 700;
+    }
+
+    .parchments {
+      margin: .048in 0 .065in;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: .04in;
+    }
+
+    .parchment {
+      min-height: .35in;
+      padding: .025in;
+      border: 1pt solid #000;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 5.68pt;
+      line-height: 1.03;
+      font-weight: 700;
+    }
+
+    .rule {
+      margin: .06in 0;
+      padding: .037in .04in;
+      border-top: 1pt solid #000;
+      border-bottom: 1pt solid #000;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 6.55pt;
+      line-height: 1.08;
+      font-weight: 700;
+      letter-spacing: .036em;
+    }
+
+    .relation {
+      margin-bottom: .047in;
+      display: grid;
+      grid-template-columns: .3in 1fr;
+      gap: .052in;
+      align-items: start;
+      font-size: 6.9pt;
+      line-height: 1.12;
+      font-weight: 500;
+    }
+
+    .relation .badge {
+      width: .215in;
+      height: .215in;
+    }
+
+    .gov-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: .042in;
+    }
+
+    .gov-box {
+      border: 1pt solid #000;
+      padding: .043in .035in;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 6.38pt;
+      line-height: 1.06;
+      font-weight: 700;
+    }
+
+    .quote {
+      margin-top: .08in;
+      padding: .073in;
+      border: 1pt solid #000;
+      text-align: center;
+      font-style: italic;
+      font-size: 7.75pt;
+      line-height: 1.18;
+      font-weight: 700;
+    }
+
+    .limit {
+      margin-top: .07in;
+      padding-top: .058in;
+      border-top: 1pt solid #000;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 6.55pt;
+      line-height: 1.10;
+      font-weight: 700;
+      letter-spacing: .018em;
+    }
+
+    .footer {
+      display: grid;
+      grid-template-columns: 2.35fr 1fr 1.4fr 1.2fr;
+      font-size: 6.05pt;
+      line-height: 1.08;
+      font-weight: 700;
+      letter-spacing: .045em;
+    }
+
+    .footer div {
+      border-right: 1pt solid #000;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      padding: .035in .055in;
+      text-transform: uppercase;
+    }
+
+    .footer .url,
+    .footer .email {
+      text-transform: none;
+      letter-spacing: .018em;
+      font-size: 6.35pt;
+    }
+
+    .footer div:last-child {
+      border-right: 0;
+    }
+
+    @media screen {
+      html,
+      body {
+        width: auto;
+        height: auto;
+      }
+
+      body {
+        padding: 24px;
+        background: #eee;
+      }
+
+      .sheet {
+        margin: 0 auto;
+        background: #fff;
+        box-shadow: 0 0 0 1px #000;
+      }
+    }
+
+    @media print {
+      html,
+      body {
+        width: 8.5in;
+        height: 14in;
+      }
+
+      .sheet {
+        width: 8.5in;
+        height: 14in;
+        box-shadow: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="sheet">
+    <section class="top">
+      <aside class="brand">
+        <div class="brand-mark">
+          <div>
+            <div class="brand-sigle">UCKK</div>
+            <div class="brand-name">Univers-Cité<br>King Klown</div>
+          </div>
+        </div>
+
+        <div class="brand-note">
+          Cité-école expérimentale d’apprentissage public.<br><br>
+          Ses Paliers et Parchemins sont des reconnaissances internes de compétence, de pratique, de recherche ou de contribution.
+        </div>
+      </aside>
+
+      <header class="hero">
+        <div class="hero-kicker">L’école des joueurs lucides du Grand Jeu social</div>
+        <h1>Univers-Cité<br>King Klown</h1>
+        <div class="hero-slogan">Comprendre le jeu. Jouer avec lucidité. Changer les règles.</div>
+        <div class="hero-definition">
+          Une cité-école expérimentale pour apprendre à lire les systèmes sociaux,
+          comprendre leurs règles visibles et invisibles, agir avec méthode, et transformer
+          les règles lorsque le jeu devient injuste, opaque ou destructeur.
+        </div>
+      </header>
+
+      <aside class="actions">
+        <div class="action"><span class="action-number">1</span><span>Voir le système</span></div>
+        <div class="action"><span class="action-number">2</span><span>Comprendre les pièces</span></div>
+        <div class="action"><span class="action-number">3</span><span>Agir avec panache et intégrité</span></div>
+        <div class="action"><span class="action-number">4</span><span>Changer les règles</span></div>
+      </aside>
+    </section>
+
+    <div class="section-band">Nos 10 voies fondatrices</div>
+
+    <section class="ways">
+      <article class="way">
+        <div class="way-number">1</div>
+        <div class="way-content">
+          <div class="way-title">Voie du Grand Jeu social</div>
+          <p class="way-body">Lire la société comme un Grand Jeu composé de règles, institutions, récits, pouvoirs, technologies, incitatifs et opportunités.</p>
+          <div class="way-keys"><strong>Champs :</strong> règles · institutions · récits · pouvoirs · preuves</div>
+        </div>
+      </article>
+
+      <article class="way">
+        <div class="way-number">2</div>
+        <div class="way-content">
+          <div class="way-title">Voie de l’Architecture de l’écosystème digital kOA</div>
+          <p class="way-body">Comprendre, concevoir, déployer et gouverner le kOA Digital Ecosystem : Kristals, Konnaxion, Orgo, Smart Vote, SemantiK, auditabilité et résilience.</p>
+          <div class="way-keys"><strong>Champs :</strong> Kristals · Konnaxion · Orgo · Smart Vote · auditabilité</div>
+        </div>
+      </article>
+
+      <article class="way">
+        <div class="way-number">3</div>
+        <div class="way-content">
+          <div class="way-title">Voie de la Métaphysique</div>
+          <p class="way-body">Étudier les structures invisibles qui organisent le rapport humain au réel : vérité, sens, conscience, liberté, pouvoir, ordre, chaos, langage et croyance.</p>
+          <div class="way-keys"><strong>Champs :</strong> vérité · sens · conscience · croyance · symbolique</div>
+        </div>
+      </article>
+
+      <article class="way">
+        <div class="way-number">4</div>
+        <div class="way-content">
+          <div class="way-title">Voie de l’Architecture sociotechnique</div>
+          <p class="way-body">Concevoir des systèmes combinant humains, technologies, institutions, données, règles, workflows et plateformes.</p>
+          <div class="way-keys"><strong>Champs :</strong> humains · données · règles · workflow · gouvernance</div>
+        </div>
+      </article>
+
+      <article class="way">
+        <div class="way-number">5</div>
+        <div class="way-content">
+          <div class="way-title">Voie des Sciences politiques</div>
+          <p class="way-body">Comprendre le pouvoir, les institutions, les assemblées, les lois, les mouvements, les votes, la légitimité et les mécanismes de décision.</p>
+          <div class="way-keys"><strong>Champs :</strong> pouvoir · lois · votes · légitimité · décisions</div>
+        </div>
+      </article>
+
+      <article class="way">
+        <div class="way-number">6</div>
+        <div class="way-content">
+          <div class="way-title">Voie de l’Économie</div>
+          <p class="way-body">Lire les ressources, flux, incitatifs, marchés, plateformes, modèles de valeur, extraction et redistribution comme règles du jeu social.</p>
+          <div class="way-keys"><strong>Champs :</strong> ressources · incitatifs · valeur · extraction · redistribution</div>
+        </div>
+      </article>
+
+      <article class="way">
+        <div class="way-number">7</div>
+        <div class="way-content">
+          <div class="way-title">Voie de l’Écologie</div>
+          <p class="way-body">Comprendre les systèmes vivants, les territoires, les ressources, les dépendances matérielles, les crises climatiques et les liens entre société et environnement.</p>
+          <div class="way-keys"><strong>Champs :</strong> vivant · territoires · résilience · transition · santé planétaire</div>
+        </div>
+      </article>
+
+      <article class="way">
+        <div class="way-number">8</div>
+        <div class="way-content">
+          <div class="way-title">Voie de la Linguistique et de l’Architecture du sens</div>
+          <p class="way-body">Gouverner les mots, concepts, traductions, récits, catégories, identités, dictionnaires, graphes de sens et pouvoirs symboliques.</p>
+          <div class="way-keys"><strong>Champs :</strong> langage · traduction · récits · graphes de sens</div>
+        </div>
+      </article>
+
+      <article class="way">
+        <div class="way-number">9</div>
+        <div class="way-content">
+          <div class="way-title">Voie de l’Intelligence artificielle gouvernable</div>
+          <p class="way-body">Utiliser l’IA comme outil de lecture, création, cartographie, simulation et accélération — jamais comme autorité finale.</p>
+          <div class="way-keys"><strong>Champs :</strong> données · simulation · transparence · jugement humain</div>
+        </div>
+      </article>
+
+      <article class="way">
+        <div class="way-number">10</div>
+        <div class="way-content">
+          <div class="way-title">Voie de l’Intervention sociale et des systèmes humains</div>
+          <p class="way-body">Servir les personnes dans les systèmes : vulnérabilité, exclusion, trauma, pauvreté, famille, communautés, institutions, dignité et réparation.</p>
+          <div class="way-keys"><strong>Champs :</strong> dignité · inclusion · communauté · justice sociale</div>
+        </div>
+      </article>
+    </section>
+
+    <div class="caption">
+      Ces Voies sont des structures internes de formation, de pratique et de reconnaissance.
+      Elles peuvent mener à des passages de Palier et à des Parchemins UCKK. Elles ne sont pas des diplômes publics accrédités.
+    </div>
+
+    <section class="mid">
+      <section class="panel">
+        <h2 class="panel-title">Tronc commun obligatoire</h2>
+        <div class="split">
+          <div class="square">A</div>
+          <div>
+            <p><strong>Tous les Aspirants UCKK commencent par un tronc commun :</strong></p>
+            <ul>
+              <li>Vision systémique du Grand Jeu</li>
+              <li>Méthodes d’enquête</li>
+              <li>Pensée critique</li>
+              <li>Éthique et intégrité</li>
+              <li>Médias vivants</li>
+              <li>IA comme outil d’analyse</li>
+              <li>Assemblées et délibération</li>
+              <li>Performance sociale et théâtre public responsable</li>
+            </ul>
+          </div>
+        </div>
+        <div class="boxed">
+          <strong>But :</strong> apprendre à voir la société comme un système composé de règles,
+          institutions, récits, pouvoirs, langages, technologies et comportements.
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel-title">Échelle des Paliers UCKK</h2>
+        <div class="levels">
+          <div class="level"><span class="badge">0</span><span>Aspirance</span><span>Aspirant UCKK</span></div>
+          <div class="level"><span class="badge">1</span><span>Initiation</span><span>Initié UCKK</span></div>
+          <div class="level"><span class="badge">2</span><span>Érudition</span><span>Érudit UCKK</span></div>
+          <div class="level"><span class="badge">3</span><span>Sapience</span><span>Savant UCKK</span></div>
+          <div class="level"><span class="badge">4</span><span>Magie opérable</span><span>Mage UCKK</span></div>
+          <div class="level"><span class="badge">5</span><span>Archimagie</span><span>Archimage UCKK</span></div>
+          <div class="level"><span class="badge">6</span><span>Grande Archimagie</span><span>Grand Archimage UCKK</span></div>
+        </div>
+        <div class="boxed">
+          Aspirant est un statut de cheminement. Aucun Parchemin n’est remis pour l’Aspirance.
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel-title">Parchemins UCKK</h2>
+        <p><strong>Reconnaissance interne par Palier atteint.</strong></p>
+        <div class="parchments">
+          <div class="parchment">Parchemin d’Initiation</div>
+          <div class="parchment">Parchemin d’Érudition</div>
+          <div class="parchment">Parchemin de Sapience</div>
+          <div class="parchment">Parchemin de Magie opérable</div>
+          <div class="parchment">Parchemin d’Archimagie</div>
+          <div class="parchment">Parchemin de Grande Archimagie</div>
+        </div>
+        <p>
+          Les Parchemins UCKK attestent une progression interne de compétence,
+          de pratique, de recherche ou de contribution dans la cité-école.
+        </p>
+        <div class="rule">Ils ne constituent pas des diplômes universitaires publics.</div>
+        <p>
+          Sauf reconnaissance officielle future, ils ne sont pas des grades universitaires
+          ni des titres professionnels reconnus par l’État.
+        </p>
+      </section>
+    </section>
+
+    <section class="bottom">
+      <section class="panel">
+        <h2 class="panel-title">Architecture canonique</h2>
+        <div class="relation"><span class="badge">k</span><span><strong>kOA</strong> mobilise : mouvement, vision, principes, culture et stratégie.</span></div>
+        <div class="relation"><span class="badge">U</span><span><strong>UCKK</strong> forme : école, voies, cours, Paliers, Parchemins, défis et assemblées.</span></div>
+        <div class="relation"><span class="badge">D</span><span><strong>kOA Digital Ecosystem</strong> opère : modules, workflows, votes, preuves, tâches et mémoire.</span></div>
+        <div class="relation"><span class="badge">K</span><span><strong>King Klown</strong> attire : récit, scène, humour, provocation et diffusion publique.</span></div>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel-title">Gouvernance et garde-fous</h2>
+        <div class="gov-grid">
+          <div class="gov-box">L’Inquisiteur protège</div>
+          <div class="gov-box">Les Assemblées légitiment</div>
+          <div class="gov-box">Les Bâtisseurs réalisent</div>
+          <div class="gov-box">Les Archives se souviennent</div>
+        </div>
+        <div class="quote">Même le Roi-Clown peut être interrogé.</div>
+        <p style="margin-top:.075in;">
+          Les faits, preuves, règles, résultats et décisions doivent rester vérifiables.
+          La fiction pédagogique doit rester identifiable comme fiction ou scène.
+        </p>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel-title">Pour qui ?</h2>
+        <p>
+          Pour les Aspirants, Joueurs lucides, Bâtisseurs, créateurs, chercheurs,
+          pédagogues, artistes, citoyens, juristes, enquêteurs et médiateurs
+          désireux d’apprendre à lire, interpréter, gouverner et transformer
+          le Grand Jeu ensemble.
+        </p>
+        <div class="quote">
+          Ta curiosité.<br>
+          Ton intégrité.<br>
+          Ton désir d’apprendre à mieux jouer le jeu.
+        </div>
+        <div class="limit">
+          Le spectacle est permis.<br>
+          L’abus ne l’est pas.<br><br>
+          La foi peut inspirer. Les faits doivent convaincre. La méthode doit pouvoir être vérifiée.
+        </div>
+      </section>
+    </section>
+
+    <footer class="footer">
+      <div>UCKK — Cité-école expérimentale d’apprentissage public</div>
+      <div class="url">uckk.io</div>
+      <div class="email">rejean.mccormick@initkoa.org</div>
+      <div>Communauté — Archives — Système</div>
+    </footer>
+  </main>
+</body>
+</html>
