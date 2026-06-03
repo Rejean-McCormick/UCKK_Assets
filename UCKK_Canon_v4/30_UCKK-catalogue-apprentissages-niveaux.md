@@ -50,6 +50,7 @@ Les Assemblées = légitimité collective
 Les Archives = mémoire
 ```
 
+
 L’UCKK ne doit pas être confondue avec l’ensemble du mouvement kOA. Elle forme, documente, met en scène, développe et transmet. Elle peut enseigner le kOA Digital Ecosystem, mais elle n’est pas elle-même toute l’infrastructure kOA.
 
 ---

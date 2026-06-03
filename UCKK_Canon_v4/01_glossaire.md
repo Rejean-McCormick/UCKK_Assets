@@ -726,7 +726,7 @@ Les faits, preuves, règles, résultats et décisions doivent rester vérifiable
 
 ### Relation générale
 
-> **kOA est le mouvement. UCKK est l’institution d’apprentissage. Le kOA Digital Ecosystem est l’infrastructure. King Klown est la figure narrative.**
+> **kOA est l'initiative. UCKK est l’institution d’apprentissage. Le kOA Digital Ecosystem est l’infrastructure. King Klown est la figure narrative.**
 
 ---
 
