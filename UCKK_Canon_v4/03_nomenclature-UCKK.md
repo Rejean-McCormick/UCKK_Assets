@@ -14,7 +14,7 @@ La nomenclature couvre :
 * les termes à éviter;
 * les formulations canoniques à intégrer au catalogue.
 
-Le canon UCKK distingue déjà les rôles fondamentaux : **kOA est le mouvement**, **UCKK est l’institution d’apprentissage / cité d’apprentissage**, **King Klown est la figure narrative**, **l’Inquisiteur est le garde-fou éthique**, **les Assemblées légitiment** et **les Archives conservent la mémoire**. 
+Le canon UCKK distingue déjà les rôles fondamentaux : **kOA est le mouvement**, **UCKK est l’établissement virtuel de puissance opératoire consacré au Grand Jeu social**, **King Klown est la figure narrative**, **l’Inquisiteur est le garde-fou éthique**, **les Assemblées légitiment** et **les Archives conservent la mémoire**. 
 
 ---
 
@@ -26,7 +26,25 @@ La règle devient :
 
 > **UCKK ne décerne pas de baccalauréats, maîtrises ou doctorats. UCKK remet des Parchemins UCKK correspondant à des Niveaux.**
 
-Le canon précise déjà que UCKK est une **cité d’apprentissage public émergente** et que ses reconnaissances internes ne doivent pas être présentées comme des diplômes publics accrédités par l’État, sauf reconnaissance officielle future. 
+Le canon précise déjà que l’UCKK est un **établissement virtuel émergent de puissance opératoire** et que ses reconnaissances internes ne doivent pas être présentées comme des diplômes publics accrédités par l’État, sauf reconnaissance officielle future. 
+## 2.1 Définition publique recommandée
+
+La définition publique recommandée de l’UCKK est :
+
+> **L’Univers-Cité King Klown est un établissement virtuel de puissance opératoire consacré au Grand Jeu social.**
+
+Cette formule guide les textes publics, pages de présentation, résumés, documents partenaires et introductions synthétiques.
+
+| Élément | Formulation canonique |
+| ------- | --------------------- |
+| Nom officiel | **Univers-Cité King Klown** |
+| Nom court | **UCKK** |
+| Définition publique | **Établissement virtuel de puissance opératoire** |
+| Domaine principal | **Grand Jeu social** |
+| Slogan | **Comprendre le jeu. Jouer avec lucidité. Changer les règles.** |
+
+Cette définition ne présente pas l’UCKK comme une université accréditée. Elle affirme plutôt une structure établie, virtuelle, formatrice et orientée vers la capacité d’opérer avec méthode dans le Grand Jeu social.
+
 
 ---
 
@@ -57,6 +75,11 @@ et non :
 
 | Élément                                | Appellation UCKK                                             |
 | -------------------------------------- | ------------------------------------------------------------ |
+| Nom officiel                           | **Univers-Cité King Klown**                                  |
+| Nom court                              | **UCKK**                                                     |
+| Définition publique                    | **Établissement virtuel de puissance opératoire**            |
+| Domaine principal                      | **Grand Jeu social**                                         |
+| Slogan                                 | **Comprendre le jeu. Jouer avec lucidité. Changer les règles.** |
 | Personne en étude sans Parchemin UCKK | **Aspirant UCKK**                                            |
 | Système de progression                 | **Échelle des Niveaux UCKK**                                 |
 | Niveau reconnu                         | **Niveau**                                                   |
@@ -81,7 +104,7 @@ et non :
 |      3 | **Sapience**          | **Savant UCKK**          | Programme de deux ans       | Compréhension structurée d’un champ et capacité d’explication.                      |
 |      4 | **Puissance opératoire**    | **Mage UCKK**            | Baccalauréat                | Capacité d’opérer dans un domaine complet du Grand Jeu.                             |
 |      5 | **Archipuissance**        | **Archimage UCKK**       | Maîtrise                    | Œuvre avancée, défendable, utile et transmissible.                                  |
-|      6 | **Grande Archipuissance** | **Grand Archimage UCKK** | Doctorat                    | Contribution majeure : méthode, canon, architecture, corpus ou institution d’apprentissage transmissible. |
+|      6 | **Grande Archipuissance** | **Grand Archimage UCKK** | Doctorat                    | Contribution majeure : méthode, canon, architecture, corpus, établissement virtuel ou système transmissible. |
 
 ## 5.2 Progression courte
 
@@ -106,7 +129,7 @@ C’est une attestation interne de l’Univers-Cité King Klown.
 
 Formule officielle :
 
-> Le **Parchemin UCKK** est une attestation interne de l’Univers-Cité King Klown. Il est remis à une personne ayant franchi un **Niveau**. Il atteste une progression de compétence, de pratique, de recherche ou de contribution dans la cité d’apprentissage. Il ne constitue pas un diplôme universitaire public, un grade universitaire ou un titre professionnel reconnu par l’État, sauf reconnaissance officielle future.
+> Le **Parchemin UCKK** est une attestation interne de l’Univers-Cité King Klown. Il est remis à une personne ayant franchi un **Niveau**. Il atteste une progression de compétence, de pratique, de recherche ou de contribution au sein de l’UCKK. Il ne constitue pas un diplôme universitaire public, un grade universitaire ou un titre professionnel reconnu par l’État, sauf reconnaissance officielle future.
 
 ---
 
@@ -135,7 +158,7 @@ Aucun Parchemin n’est remis pour l’Aspirance.
 > **Puissance opératoire**
 > et reçoit le titre interne de
 > **Mage UCKK du Grand Jeu social**
-> pour ses travaux, preuves, pratiques et contributions à la cité.
+> pour ses travaux, preuves, pratiques et contributions à l’Univers-Cité King Klown.
 >
 > **Domaine :** Grand Jeu social
 > **Assemblée de reconnaissance :** [nom de l’assemblée]
@@ -234,7 +257,7 @@ Formule :
 
 Le **Grand Archimage** produit une contribution majeure et transmissible.
 
-Il fonde une méthode, un canon, une architecture, une institution d’apprentissage, un corpus ou un système utile à toute la cité.
+Il fonde une méthode, un canon, une architecture, un établissement virtuel, un corpus ou un système utile à l’Univers-Cité King Klown.
 
 Formule :
 
@@ -370,7 +393,7 @@ Il tient les registres, prépare les convocations, classe les dossiers, soutient
 
 Formule :
 
-> Le Scribe garde les traces de la cité.
+> Le Scribe garde les traces de l’Univers-Cité.
 
 ---
 
@@ -390,7 +413,7 @@ Formule :
 
 Le **Veilleur** remplace l’intervenant social.
 
-Il protège la dignité, le lien humain, le climat, la sécurité relationnelle et les personnes vulnérables.
+Il protège la dignité, le lien humain, le climat, la sécurité relationnelle et les personnes vulnérables dans l’Univers-Cité.
 
 Formule :
 
@@ -450,7 +473,7 @@ L’**Inquisiteur** protège l’intégrité.
 
 Il examine les dérives, conflits, plaintes, abus, confusions, manipulations et problèmes de justice procédurale.
 
-Il n’est pas une police morale. Il n’est pas une figure de punition arbitraire. Il est le garde-fou éthique de la cité.
+Il n’est pas une police morale. Il n’est pas une figure de punition arbitraire. Il est le garde-fou éthique de l’Univers-Cité.
 
 Formule :
 
@@ -493,6 +516,11 @@ Formule :
 
 | Concept                       | Appellation UCKK                |
 | ----------------------------- | ------------------------------- |
+| Nom officiel                  | **Univers-Cité King Klown**      |
+| Nom court                     | **UCKK**                         |
+| Définition publique           | **Établissement virtuel de puissance opératoire** |
+| Domaine principal             | **Grand Jeu social**             |
+| Slogan                        | **Comprendre le jeu. Jouer avec lucidité. Changer les règles.** |
 | Étudiant sans Parchemin UCKK | **Aspirant**                    |
 | Niveau interne                | **Niveau**                      |
 | Obtention d’un niveau         | **Passage de niveau**           |
@@ -516,6 +544,11 @@ Formule :
 
 | Terme à éviter             | Remplacement UCKK                       |
 | -------------------------- | --------------------------------------- |
+| Campus UCKK / campus Moodle | **UCKK**, **Univers-Cité King Klown** ou **espaces de cours** selon le contexte |
+| École                       | **Établissement virtuel de puissance opératoire** |
+| Institution d’apprentissage comme définition principale | **Établissement virtuel de puissance opératoire** |
+| Cité d’apprentissage comme définition principale | **Établissement virtuel de puissance opératoire** |
+| Plateforme Moodle comme identité publique | **UCKK** ou **espaces de cours UCKK** |
 | Diplôme universitaire      | **Parchemin UCKK**                      |
 | Grade universitaire        | **Niveau**                              |
 | Baccalauréat               | **Puissance opératoire**                      |
@@ -538,6 +571,8 @@ Formule :
 
 # 21. Formule canonique complète
 
+> L’Univers-Cité King Klown est un **établissement virtuel de puissance opératoire** consacré au **Grand Jeu social**.
+>
 > L’UCKK reconnaît la progression de ses membres par une **Échelle des Niveaux**.
 >
 > L’**Aspirant** est en cheminement et n’a pas encore reçu de Parchemin. Les reconnaissances internes commencent avec le Niveau d’**Initiation**, puis progressent vers l’**Érudition**, la **Sapience**, la **Puissance opératoire**, l’**Archipuissance** et la **Grande Archipuissance**.
@@ -550,7 +585,7 @@ Formule :
 
 # 22. Formule canonique du personnel
 
-> Le personnel UCKK est organisé autour de fonctions internes propres à la cité d’apprentissage.
+> Le personnel UCKK est organisé autour de fonctions internes propres à l’Univers-Cité King Klown.
 >
 > Les **Précepteurs** guident l’enseignement.
 > Les **Acolytes** soutiennent, animent ou prennent en charge certains apprentissages.
@@ -567,6 +602,8 @@ Formule :
 
 # 23. Version courte pour catalogue public
 
+> L’Univers-Cité King Klown est un établissement virtuel de puissance opératoire consacré au Grand Jeu social.
+>
 > UCKK ne décerne pas de baccalauréats, maîtrises ou doctorats.
 > Elle remet des **Parchemins UCKK**, attestations internes associés à des **Niveaux**.
 >
@@ -574,13 +611,21 @@ Formule :
 > Les Niveaux reconnus mènent aux titres internes suivants :
 > **Initié, Érudit, Savant, Mage, Archimage et Grand Archimage**.
 >
-> Chaque passage de niveau est reconnu par un **Parchemin UCKK** et archivé dans la mémoire institutionnelle de la cité.
+> Chaque passage de niveau est reconnu par un **Parchemin UCKK** et archivé dans la mémoire institutionnelle de l’Univers-Cité King Klown.
 >
 > Le personnel UCKK accompagne cette progression : **Précepteurs**, **Acolytes**, **Scribes**, **Examinateurs**, **Veilleurs**, **Cartographes des parcours**, **Architectes des niveaux**, **Gardiens de Voie**, **Archivistes** et **Inquisiteurs**.
 
 ---
 
 # 24. Résumé final
+
+## Définition publique
+
+> **Univers-Cité King Klown**  
+> **UCKK**  
+> **Établissement virtuel de puissance opératoire**  
+> **Grand Jeu social**  
+> **Comprendre le jeu. Jouer avec lucidité. Changer les règles.**
 
 ## Progression personnelle
 
@@ -598,4 +643,4 @@ Formule :
 
 > **Précepteur, Acolyte, Scribe, Examinateur, Veilleur, Cartographe des parcours, Architecte des niveaux, Gardien de Voie, Archiviste, Inquisiteur**
 
-Cette nomenclature donne à UCKK une langue complète, cohérente et distinctive : **Niveaux, Parchemins, Mages, Voies, Archives, intégrité et transmission**.
+Cette nomenclature donne à l’UCKK une langue complète, cohérente et distinctive : **établissement virtuel de puissance opératoire, Grand Jeu social, Niveaux, Parchemins, Mages, Voies, Archives, intégrité et transmission**.

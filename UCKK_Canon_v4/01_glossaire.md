@@ -3,8 +3,8 @@
 **Path canonique :** `UCKK_Canon/01_glossaire.md`  
 **Institution :** Univers-Cité King Klown  
 **Relation :** UCKK est la branche éducative du mouvement kOA.  
-**Version :** 0.2 — nomenclature UCKK corrigée  
-**Statut :** Glossaire institutionnel court
+**Version :** 0.3 — définition publique UCKK corrigée  
+**Statut :** Glossaire institutionnel court — vocabulaire public corrigé
 
 ---
 
@@ -43,7 +43,7 @@ Il comprend une vision, des principes, une culture, des méthodes, une stratégi
 
 Le **Mouvement kOA** est le cadre social, culturel, éthique et stratégique qui porte l’ensemble des initiatives kOA.
 
-Il ne se réduit pas à une application, une plateforme, une institution d’apprentissage, un parti politique ou une religion.
+Il ne se réduit pas à une application, une plateforme, un établissement de formation, un parti politique ou une religion.
 
 Il vise à rendre la société plus lucide, plus coopérative, plus gouvernable et plus capable d’agir collectivement.
 
@@ -52,6 +52,8 @@ Il vise à rendre la société plus lucide, plus coopérative, plus gouvernable 
 ### Univers-Cité King Klown
 
 L’**Univers-Cité King Klown** est la branche éducative du mouvement kOA.
+
+Sa définition publique recommandée est : **un établissement virtuel de puissance opératoire consacré au Grand Jeu social**.
 
 Elle forme des personnes capables de comprendre le Grand Jeu social, de lire les systèmes, d’utiliser les outils kOA, de participer à des assemblées, de produire des savoirs, de lancer des défis et de transformer les règles avec lucidité.
 
@@ -79,11 +81,35 @@ Le trait d’union dans **Univers-City** est intentionnel : il marque la combina
 
 ---
 
+### Établissement virtuel de puissance opératoire
+
+Un **établissement virtuel de puissance opératoire** est une structure établie, organisée et transmissible, principalement numérique, où des personnes développent leur capacité à comprendre un domaine, produire des preuves, participer à des Assemblées, franchir des Niveaux et agir avec méthode.
+
+Pour l’UCKK, cette expression sert de définition publique principale :
+
+> **L’Univers-Cité King Klown est un établissement virtuel de puissance opératoire consacré au Grand Jeu social.**
+
+Le mot **établissement** indique que l’UCKK est une structure posée, organisée et durable, sans prétendre être une université officiellement accréditée.
+
+Le mot **virtuel** indique que l’UCKK existe principalement comme espace numérique, documentaire, pédagogique et communautaire.
+
+L’expression **puissance opératoire** renvoie à la capacité de relier, transformer, résoudre, produire et agir avec méthode dans une Voie UCKK.
+
+Cette formule doit être préférée, dans les textes publics, à **campus**, **école**, **plateforme Moodle**, **cité d’apprentissage** ou **institution d’apprentissage**.
+
+---
+
 ### Cité d’apprentissage
 
-Une **cité d’apprentissage** est une communauté d’apprentissage qui ne se limite pas à transmettre des cours.
+Une **cité d’apprentissage** est une ancienne formule descriptive qui peut encore servir dans un contexte historique, explicatif ou secondaire.
 
-Elle organise aussi des défis, des assemblées, des projets, des rôles, des preuves, des archives, des scènes publiques et des formes de reconnaissance.
+Elle ne doit plus servir de définition publique principale de l’UCKK.
+
+Pour les textes publics et les présentations synthétiques, utiliser plutôt :
+
+> **établissement virtuel de puissance opératoire consacré au Grand Jeu social**
+
+L’ancienne formule reste utile pour rappeler que l’UCKK ne se limite pas à transmettre des cours : elle organise aussi des défis, des Assemblées, des projets, des rôles, des preuves, des archives, des scènes publiques et des formes de reconnaissance.
 
 ---
 
@@ -464,7 +490,7 @@ Le **feedback gouverné** est un retour d’expérience qui ouvre un nouveau cyc
 
 L’**Échelle des Niveaux UCKK** est le système interne de progression de l’Univers-Cité King Klown.
 
-Elle remplace les appellations universitaires classiques par une progression propre à la cité d’apprentissage : **Aspirance → Initiation → Érudition → Sapience → Puissance opératoire → Archipuissance → Grande Archipuissance**.
+Elle remplace les appellations universitaires classiques par une progression propre à l’UCKK : **Aspirance → Initiation → Érudition → Sapience → Puissance opératoire → Archipuissance → Grande Archipuissance**.
 
 ---
 
@@ -480,7 +506,7 @@ Il étudie, explore, participe aux cours, ateliers, défis et assemblées, mais 
 
 Un **Niveau** est un niveau reconnu dans une voie UCKK.
 
-Le Niveau n’est pas un grade universitaire. Il indique une reconnaissance interne de compétence, de pratique, de recherche ou de contribution dans la cité d’apprentissage.
+Le Niveau n’est pas un grade universitaire. Il indique une reconnaissance interne de compétence, de pratique, de recherche ou de contribution au sein de l’UCKK.
 
 ---
 
@@ -557,9 +583,9 @@ Parchemin associé : **Parchemin d’Archipuissance**.
 
 ### Grande Archipuissance
 
-La **Grande Archipuissance** reconnaît une contribution majeure à la cité d’apprentissage.
+La **Grande Archipuissance** reconnaît une contribution majeure à l’Univers-Cité King Klown.
 
-Elle peut fonder une méthode, un canon, une architecture, un corpus, une institution d’apprentissage ou un système transmissible.
+Elle peut fonder une méthode, un canon, une architecture, un corpus, un établissement virtuel, un dispositif de formation ou un système transmissible.
 
 Titre associé : **Grand Archimage UCKK**.  
 Parchemin associé : **Parchemin de Grande Archipuissance**.
@@ -668,7 +694,7 @@ Il peut soutenir plusieurs voies sans constituer à lui seul un Niveau complet, 
 
 UCKK ne doit pas être présentée comme une université accréditée officiellement, sauf reconnaissance formelle future.
 
-Elle doit être décrite comme une **cité d’apprentissage émergente** ou une **institution d’apprentissage public**.
+Elle doit être décrite comme un **établissement virtuel émergent de puissance opératoire**, sans prétention à l’accréditation officielle tant qu’aucune reconnaissance formelle externe n’existe.
 
 ---
 
@@ -724,9 +750,25 @@ Les faits, preuves, règles, résultats et décisions doivent rester vérifiable
 
 ---
 
+### Définition publique UCKK
+
+> **L’Univers-Cité King Klown est un établissement virtuel de puissance opératoire consacré au Grand Jeu social.**
+
+Référence courte :
+
+```text
+Nom officiel : Univers-Cité King Klown
+Nom court : UCKK
+Définition publique : établissement virtuel de puissance opératoire
+Domaine : Grand Jeu social
+Slogan : Comprendre le jeu. Jouer avec lucidité. Changer les règles.
+```
+
+---
+
 ### Relation générale
 
-> **kOA est l'initiative. UCKK est l’institution d’apprentissage. Le kOA Digital Ecosystem est l’infrastructure. King Klown est la figure narrative.**
+> **kOA est l’initiative. UCKK est l’établissement virtuel de puissance opératoire. Le kOA Digital Ecosystem est l’infrastructure. King Klown est la figure narrative.**
 
 ---
 
